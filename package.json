@@ -1,0 +1,23 @@
+{
+  "name": "jubilant-designs",
+  "version": "1.0.0",
+  "description": "Dynamic and responsive website for Jubilant Designs - Creative Branding & Design Solutions",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "branding",
+    "design",
+    "creative",
+    "portfolio"
+  ],
+  "author": "Jubilant Designs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshua-danquah-website/-Jubilant-Homeschooler"
+  }
+}
